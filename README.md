@@ -70,3 +70,4 @@ Pour exécuter ce projet localement :
 Clonez ou téléchargez le dépôt sur votre machine locale.
 Assurez-vous que toutes les ressources d'images sont placées dans le bon répertoire par rapport à index.html.
 Ouvrez index.html dans un navigateur web pour voir la page web.
+50% dans zoom pour meilleure experience 
